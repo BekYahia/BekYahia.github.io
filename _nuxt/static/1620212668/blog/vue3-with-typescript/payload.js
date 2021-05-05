@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/vue3-with-typescript", {data:[{}],fetch:{},mutations:[]});
