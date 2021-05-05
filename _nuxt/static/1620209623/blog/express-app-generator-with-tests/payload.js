@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/express-app-generator-with-tests", {data:[{}],fetch:{},mutations:[]});
